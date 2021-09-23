@@ -1,70 +1,102 @@
-# Getting Started with Create React App
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/63716330/90742698-b8008f80-e2f9-11ea-973f-a6e153b6614a.png">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##
 
-## Available Scripts
+![Build Project](https://github.com/vuejs-id/blog/workflows/Build%20Project/badge.svg) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fblog.vuejs.id%2F) ![Dependencies](https://img.shields.io/david/vuejs-id/blog.svg)
 
-In the project directory, you can run:
+> Create UI For staycation website
 
-### `npm start`
+## :memo: Table Of Content
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Built-With](https://github.com/RepoRandi/staycation#Built-With)
+- [Features](https://github.com/RepoRandi/staycation#Features)
+- [Prerequisites](https://github.com/RepoRandi/staycation#Prerequisites)
+- [Development](https://github.com/RepoRandi/staycation#Development)
+- [Live](https://github.com/RepoRandi/staycation#Live)
+- [HTTP-Verbs](https://github.com/RepoRandi/staycation#HTTP-Verbs)
+- [Screenshot](https://github.com/RepoRandi/staycation#Screenshot)
+- [Author](https://github.com/RepoRandi/staycation#Author)
+- [License](https://github.com/RepoRandi/staycation#License)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Built-With
 
-### `npm test`
+- [React.js](http://reactjs.org/) - FrontEnd Library JavaScript
+- [Bootstrap](https://getbootstrap.com/) - Css Framework
+- [Redux](https://redux.js.org/) - JavaScript library for managing application state
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+- [x] Login/Register AUTH With JWT
+- [x] Password hashing With Bcript
+- [x] CRUD
+- [x] Search
+- [x] Sort
+- [x] Pagination
+- [x] Cors
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Node.js installed on the local machine
+- Npm or Yarn installed on the local machine
+- React.js installed on the local machine
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Development
 
-### `npm run eject`
+> Clone Repo And Install Package
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. Clone this repository:
+   `git clone https://https://github.com/RepoRandi/staycation`
+2. Install depedencies:
+   - `cd staycation`
+   - `npm install`
+3. Start the server:
+   - Open Terminal `npm start`
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Live
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [https://localhost:3000](https://localhost:3000)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## HTTP-Verbs
 
-## Learn More
+| Verbs    | Description                                          |
+| -------- | ---------------------------------------------------- |
+| `GET`    | Request data from the server                         |
+| `POST`   | Sending data to the server                           |
+| `PUT`    | Change all data that is already on the server        |
+| `PATCH`  | Change Most of the data already exists on the server |
+| `DELETE` | Delete data that is already on the server            |
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Screenshot
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Landing Page
 
-### Code Splitting
+![screenshot-landingpage](https://user-images.githubusercontent.com/63716330/90948555-3b40f300-e46a-11ea-95d2-75aabd81faa7.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Details Page
 
-### Analyzing the Bundle Size
+![screenshot-details-page](https://user-images.githubusercontent.com/63716330/90948679-43e5f900-e46b-11ea-9434-f2bce6bba37b.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Checkout Page :
 
-### Making a Progressive Web App
+  1. Booking information
+![screenshot-booking-information](https://user-images.githubusercontent.com/63716330/90948722-dbe3e280-e46b-11ea-880a-a0fa6de3c0f4.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+  2. Payment
+![screenshot-payment](https://user-images.githubusercontent.com/63716330/90948742-1ea5ba80-e46c-11ea-860b-96ca6e676d56.png)
 
-### Advanced Configuration
+  3. Completed
+![screenshot-completed](https://user-images.githubusercontent.com/63716330/90948815-c4592980-e46c-11ea-9602-76a8fb127577.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Author
 
-### Deployment
+- [Randi Maulana Akbar](https://www.linkedin.com/in/randi-maulana-akbar/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## License
 
-### `npm run build` fails to minify
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/RepoRandi/staycation/blob/master/LICENSE) file for details
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##
+
+Copyright © 2020 By Randi Maulana Akbar
