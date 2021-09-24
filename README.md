@@ -16,7 +16,7 @@
 
 - Details Page
 
-![screenshot-details-page](https://user-images.githubusercontent.com/63716330/90948679-43e5f900-e46b-11ea-9434-f2bce6bba37b.png)
+![screenshot-details-page](https://user-images.githubusercontent.com/77246142/134699048-03f21b78-67bd-4f08-9cb7-bf9a0df6f994.png)
 
 - Checkout Page :
 
