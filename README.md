@@ -8,67 +8,7 @@
 
 > Create UI For staycation website
 
-## :memo: Table Of Content
-
-- [Built-With](https://github.com/RepoRandi/staycation#Built-With)
-- [Features](https://github.com/RepoRandi/staycation#Features)
-- [Prerequisites](https://github.com/RepoRandi/staycation#Prerequisites)
-- [Development](https://github.com/RepoRandi/staycation#Development)
-- [Live](https://github.com/RepoRandi/staycation#Live)
-- [HTTP-Verbs](https://github.com/RepoRandi/staycation#HTTP-Verbs)
-- [Screenshot](https://github.com/RepoRandi/staycation#Screenshot)
-- [Author](https://github.com/RepoRandi/staycation#Author)
-- [License](https://github.com/RepoRandi/staycation#License)
-
-## Built-With
-
-- [React.js](http://reactjs.org/) - FrontEnd Library JavaScript
-- [Bootstrap](https://getbootstrap.com/) - Css Framework
-- [Redux](https://redux.js.org/) - JavaScript library for managing application state
-
-## Features
-
-- [x] Login/Register AUTH With JWT
-- [x] Password hashing With Bcript
-- [x] CRUD
-- [x] Search
-- [x] Sort
-- [x] Pagination
-- [x] Cors
-
-## Prerequisites
-
-- Node.js installed on the local machine
-- Npm or Yarn installed on the local machine
-- React.js installed on the local machine
-
-## Development
-
-> Clone Repo And Install Package
-
-1. Clone this repository:
-   `git clone https://https://github.com/RepoRandi/staycation`
-2. Install depedencies:
-   - `cd staycation`
-   - `npm install`
-3. Start the server:
-   - Open Terminal `npm start`
-
-## Live
-
-- [https://localhost:3000](https://localhost:3000)
-
-## HTTP-Verbs
-
-| Verbs    | Description                                          |
-| -------- | ---------------------------------------------------- |
-| `GET`    | Request data from the server                         |
-| `POST`   | Sending data to the server                           |
-| `PUT`    | Change all data that is already on the server        |
-| `PATCH`  | Change Most of the data already exists on the server |
-| `DELETE` | Delete data that is already on the server            |
-
-## Screenshot
+> ## Screenshot
 
 - Landing Page
 
@@ -89,14 +29,31 @@
   3. Completed
 ![screenshot-completed](https://user-images.githubusercontent.com/63716330/90948815-c4592980-e46c-11ea-9602-76a8fb127577.png)
 
-## Author
+## Built-With
 
-- [Randi Maulana Akbar](https://www.linkedin.com/in/randi-maulana-akbar/)
+- [React.js](http://reactjs.org/) - FrontEnd Library JavaScript
+- [Bootstrap](https://getbootstrap.com/) - Css Framework
+- [Redux](https://redux.js.org/) - JavaScript library for managing application state
 
-## License
+## Prerequisites
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/RepoRandi/staycation/blob/master/LICENSE) file for details
+- Node.js installed on the local machine
+- Npm or Yarn installed on the local machine
+- React.js installed on the local machine
 
-##
+## Development
 
-Copyright © 2020 By Randi Maulana Akbar
+> Clone Repo And Install Package
+
+1. Clone this repository:
+   `git clone https://github.com/dimasarfan01/bwa-mern-client
+2. Install depedencies:
+   - `cd staycation`
+   - `npm install`
+3. Start the server:
+   - Open Terminal `npm start`
+
+## Live
+
+- [https://localhost:3000](https://localhost:3000)
+
