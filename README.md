@@ -41,19 +41,4 @@
 - Npm or Yarn installed on the local machine
 - React.js installed on the local machine
 
-## Development
-
-> Clone Repo And Install Package
-
-1. Clone this repository:
-   `git clone https://github.com/dimasarfan01/bwa-mern-client
-2. Install depedencies:
-   - `cd staycation`
-   - `npm install`
-3. Start the server:
-   - Open Terminal `npm start`
-
-## Live
-
-- [https://localhost:3000](https://localhost:3000)
 
