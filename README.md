@@ -2,9 +2,14 @@
   <img width="400" src="https://user-images.githubusercontent.com/63716330/90742698-b8008f80-e2f9-11ea-973f-a6e153b6614a.png">
 </p>
 
-##
 
-![Build Project](https://github.com/vuejs-id/blog/workflows/Build%20Project/badge.svg) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fblog.vuejs.id%2F) ![Dependencies](https://img.shields.io/david/vuejs-id/blog.svg)
+## Built-With
+
+- React.js - FrontEnd Library JavaScript
+- Bootstrap - Css Framework
+- Express Js - Backend Library JavaScript
+- MongoDB - Database
+- Node Js - JavaScript runtime built
 
 > Create UI For staycation website
 
@@ -28,17 +33,5 @@
 
   3. Completed
 ![screenshot-completed](https://user-images.githubusercontent.com/63716330/90948815-c4592980-e46c-11ea-9602-76a8fb127577.png)
-
-## Built-With
-
-- [React.js](http://reactjs.org/) - FrontEnd Library JavaScript
-- [Bootstrap](https://getbootstrap.com/) - Css Framework
-- [Redux](https://redux.js.org/) - JavaScript library for managing application state
-
-## Prerequisites
-
-- Node.js installed on the local machine
-- Npm or Yarn installed on the local machine
-- React.js installed on the local machine
 
 
